@@ -20,7 +20,6 @@ export default function Home() {
               width={400}
               height={152}
             />
-            <h2>En Construction</h2>
             <p className="cursor-pointer">
               <a href={`mailto:info@nomadpools.ca`}>info@nomadpools.ca</a>
             </p>
