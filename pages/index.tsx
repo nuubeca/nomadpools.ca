@@ -9,12 +9,12 @@ export default function Home() {
           className="-z-10"
           layout="fill"
           objectFit="cover"
-          src="/images/bg-under-water-kid.jpg"
+          src="/images/pool-container-ai.png"
         />
         <div className="z-10 flex h-screen justify-center">
-          <div className="w-[700px] z-10 flex-col p-2 text-center text-3xl font-extrabold space-y-3 text-white overflow-y-scroll no-scrollbar">
+          <div className="no-scrollbar z-10 w-[700px] flex-col space-y-3 overflow-y-scroll p-2 text-center text-3xl font-extrabold text-white">
             <Image
-            className='mx-auto'
+              className="mx-auto"
               alt="Nomad Pools Logo"
               src={'/images/logo-piscine-nomad-couleur.png'}
               width={400}
